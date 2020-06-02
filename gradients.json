@@ -1,5 +1,10 @@
 [
-    {
+  {
+        "name": "Blurple",
+        "colors": ["#8338ec", "#3a86ff"]
+    },
+  
+  {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
     },
